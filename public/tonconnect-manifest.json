@@ -1,6 +1,6 @@
 {
-  "url": "https://ton-connect.github.io/demo-dapp/",
-  "name": "Demo Dapp",
+  "url": "https://demo-dapp-eight.vercel.app/",
+  "name": "Ton Connect Demo Dapp",
   "iconUrl": "https://ton-connect.github.io/demo-dapp/apple-touch-icon.png",
   "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp/terms-of-use.txt",
   "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp/privacy-policy.txt"
